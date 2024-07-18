@@ -11,10 +11,9 @@ char    *ft_strcpy(char *s1, char *s2)
 	return s1;
 }
 
-//MAIN
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
 	char s1[] = "";
 	char s2[] = "origen en destino";
 	printf("%s\n", ft_strcpy(s1, s2));
-}*/
+}
